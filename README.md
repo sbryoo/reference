@@ -11,3 +11,6 @@ git remote add origin account@192.168.0.1:git/PROJECT.git
 git push origin master
 
 git clone account@192.168.0.1:git/PROJECT.git
+
+# git ssh copy id search keyword
+ssh-genkey ssh-copy-id
