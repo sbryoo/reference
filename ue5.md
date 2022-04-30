@@ -1,4 +1,4 @@
-# Moving Camera
+# Moving Actor
 Timer += DeltaTime;
 
 FVector NewLocation = GetActorLocation();
